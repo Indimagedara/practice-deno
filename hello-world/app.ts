@@ -9,3 +9,4 @@ for await (const req of s){
     })
 }
 
+// Run with --allow-net flag
